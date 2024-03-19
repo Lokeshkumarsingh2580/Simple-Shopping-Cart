@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgba(161, 98, 223, 0.366);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 520px;
+  margin: 50px auto;
+}
+img {
+  margin: 0 auto;
+}
+
+#input {
+  padding: 15px;
+  text-align: center;
+  border: 0;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+#btn {
+  padding: 6px;
+  border: 0;
+  border-radius: 8px;
+  width: 40%;
+  background-color: rgba(228, 79, 79, 0.815);
+}
