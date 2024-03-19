@@ -22,9 +22,6 @@ This repository contains a simple web application that allows users to add items
 - CSS
 - JavaScript
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - The image used in the example (`6312267.jpg`) is sourced from [Unsplash](https://unsplash.com/) and used for demonstration purposes only.
 
